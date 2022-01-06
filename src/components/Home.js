@@ -22,7 +22,7 @@ function Home() {
 
     return (
         <div className="card text-center m-3">
-            <h5 className="card-header">POST Request</h5>
+            <h5 className="card-header">Assignment = POST Request</h5>
             <div className="card-body">
                 Returned Id: {postId}
             </div>
